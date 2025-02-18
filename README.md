@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MelanieKMcGee
-- 👀 I’m interested in promoting diversity and inclusion in tech, entrepreneurialism, and empowering people through education.
-- 🌱 I’m currently learning about innovative AI applications in coding education.
-- 💞️ I’m looking to collaborate on projects that foster social equity, tech accessibility, and startup ventures.
-- 📫 How to reach me: LinkedIn - [Melanie McGee](https://www.linkedin.com/in/melaniemcgee/)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a 25-year software engineering veteran and the founder of We Can Code IT, a bootcamp championing diversity in tech. I've taught in Ecuador. I created Zoe Bot and Skeletor Bot AIs back in the late 1990s and early 2000s. I created a wearable computer and was featured in books like Howard Rheingold's Smart Mobs and Curt Harler's Beyond the Browser.
+- 👀 I’m interested in tech, entrepreneurialism, and empowering people through workforce development and education.
+- 🌱 I’m currently playing with innovative AI applications in several projects and businesses that I'm working on/in.
+- 📫 How to reach me: LinkedIn - [Melanie McGee](https://www.linkedin.com/in/melmcgee/)
+- ⚡ Fun fact: I have nerly 30 years of software engineering experience and over 20 years experience as an entrepreneur. I'm the founder of We Can Code IT, a bootcamp championing social equity through technology and co-founder of SkillSpout a business training and consultancy focusing on AI. I've taught in Ecuador. I created Zoe Bot and Skeletor Bot AIs back in the late 1990s and early 2000s. I created a wearable computer and was featured in books like Howard Rheingold's Smart Mobs and Curt Harler's Beyond the Browser.
